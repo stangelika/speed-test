@@ -1,0 +1,13 @@
+Speed Test Results - 09/04/2025 22:40:03
+================================
+Ping: 83.3 ms
+Download Speed: 35.12 Mbps
+Upload Speed: 10.64 Mbps
+
+
+Summary:
+- Ping: 83.3 ms
+- Download: 35.12 Mbps
+- Upload: 10.64 Mbps
+
+Test performed using SpeedTestApp
